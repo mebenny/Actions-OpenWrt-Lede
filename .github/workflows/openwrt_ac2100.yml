@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: openwrt_x86
+name: openwrt_ac2100
 
 on:
   repository_dispatch:
